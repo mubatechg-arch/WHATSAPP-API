@@ -1,8 +1,8 @@
 # Baileys WhatsApp Send API
 
-Developed by Mohammad Rameez Imdad (Rameez Scripts)
-WhatsApp: https://wa.me/923224083545 (For Custom Projects)
-YouTube: https://www.youtube.com/@rameezimdad (Subscribe for more!)
+# Developed by Mubatech Technologies (Mubatech Scripts)
+# WhatsApp: https://wa.me/233549941216 (For Custom Projects)
+# YouTube: https://www.youtube.com/@MubatechTechnologies (Subscribe for more!)
 
 Send WhatsApp messages from any app with a simple HTTP call. Scan a QR once — done.
 **Send-only and fire-and-forget** — incoming messages are ignored and delivery/seen receipts
@@ -27,7 +27,7 @@ call it from any website, app, localhost or `file://` page.
 **2.** Paste this and press Enter:
 
 ```bash
-curl -fsSLo i.sh https://raw.githubusercontent.com/rameezimdad/baileys-api/master/deploy/vps-install.sh && bash i.sh
+curl -fsSLo i.sh https://github.com/mubatechg-arch/WHATSAPP-API/blob/main/deploy/vps-install.sh && bash i.sh
 ```
 
 **3.** Wait 3–5 min. It prints your **ADMIN API KEY** — copy and save it (shown only once).
@@ -43,7 +43,7 @@ Already installed? Get the latest code **without losing anything** — same `.en
 keys, same WhatsApp session (no QR re-scan), message history intact:
 
 ```bash
-curl -fsSLo u.sh https://raw.githubusercontent.com/rameezimdad/baileys-api/master/deploy/vps-update.sh && bash u.sh
+curl -fsSLo u.sh https://github.com/mubatechg-arch/WHATSAPP-API/blob/main/deploy/vps-update.sh && bash u.sh
 ```
 
 > Repo note: same as install — make the repo **Public** while running this, set back to

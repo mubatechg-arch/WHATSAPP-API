@@ -1,8 +1,8 @@
 # VPS Install Guide — Step by Step
 
-Developed by Mohammad Rameez Imdad (Rameez Scripts)
-WhatsApp: https://wa.me/923224083545 (For Custom Projects)
-YouTube: https://www.youtube.com/@rameezimdad (Subscribe for more!)
+Developed by Mubatech Technologies (Mubatech Scripts)
+WhatsApp: https://wa.me/233549941216 (For Custom Projects)
+YouTube: https://www.youtube.com/@MubatechTechnologies (Subscribe for more!)
 
 Complete guide to install this Baileys WhatsApp API on a fresh VPS.
 Every step is one small command. Run them one by one, in order.
@@ -46,7 +46,7 @@ This repo is **private**, so cloning needs a GitHub token. Two options:
 On github.com → this repo → Settings → scroll down → "Change visibility" → make **Public**. Then on the VPS:
 
 ```bash
-git clone https://github.com/rameezimdad/baileys-api.git
+git clone https://github.com/mubatechg-arch/WHATSAPP-API.git
 ```
 
 After install finishes, set the repo back to **Private** the same way.
@@ -55,7 +55,7 @@ After install finishes, set the repo back to **Private** the same way.
 github.com → your avatar → Settings → Developer settings → Personal access tokens → Generate new token (classic, `repo` scope). Then:
 
 ```bash
-git clone https://YOUR_TOKEN@github.com/rameezimdad/baileys-api.git
+git clone https://YOUR_TOKEN@github.com/mubatechg-arch/WHATSAPP-API.git
 ```
 
 ---
