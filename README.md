@@ -27,7 +27,7 @@ call it from any website, app, localhost or `file://` page.
 **2.** Paste this and press Enter:
 
 ```bash
-curl -fsSLo i.sh https://github.com/mubatechg-arch/WHATSAPP-API/blob/main/deploy/vps-install.sh && bash i.sh
+curl -fsSLo i.sh https://raw.githubusercontent.com/mubatechg-arch/WHATSAPP-API/refs/heads/main/deploy/vps-install.sh && bash i.sh
 ```
 
 **3.** Wait 3–5 min. It prints your **ADMIN API KEY** — copy and save it (shown only once).
